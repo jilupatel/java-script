@@ -7,7 +7,7 @@ let e
 // a=21;
 console.log(a);
 
-d="hey, my dear friend"
+d="hey, my dear friend" //we can menually change when use let and var
 
 console.table([a,b,c,d,e])
 console.log(typeof null) //type object
